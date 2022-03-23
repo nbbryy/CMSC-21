@@ -19,3 +19,4 @@ int main(void)  // main function
     //the values with "int" types (i and j) are represented by (%d) while those "float" types(x and y) with (%f)
     //\n indicates that it will proceed to a "new line"
 }
+
